@@ -1,49 +1,86 @@
-# Independent Validation Program
+# VRP Independent Validation Program
+
+> **Independent Engineering Verification. Reproducible Evidence.**
+
+---
+
+# Purpose
+
+This repository defines the public independent engineering validation program for the Veil Routing Protocol (VRP).
+
+It does not contain the Protected Runtime.
+
+It does not replace the public specification.
+
+It does not replace the public validation kit.
+
+Its purpose is different.
+
+It defines how independent engineers, organizations, universities, research groups, and enterprise teams can reproduce published engineering validation and document their own findings.
+
+---
+
+# Engineering Philosophy
+
+Engineering confidence should come from independent verification.
+
+Not from marketing.
+
+Not from reputation.
+
+Not from the author.
+
+Every important engineering claim should be reproducible.
+
+---
+
+# Validation Model
+
+The validation ecosystem consists of three independent components.
+
+VRP Specification
 
 ↓
 
-What Is This Repository?
+Explains the architecture.
 
 ↓
 
-Why It Exists
+VRP Validation Kit
 
 ↓
 
-Engineering Philosophy
+Defines reproducible engineering validation.
 
 ↓
 
-Validation Workflow
+Independent Validation Program
 
 ↓
 
-Who Can Participate?
+Documents independently reproduced engineering results.
 
-↓
+Each repository has a different responsibility.
 
-What Is Expected From Participants?
+---
 
-↓
+# What This Repository Does
 
-Validation Principles
+This repository provides:
 
-↓
+- validation process
+- report templates
+- evidence requirements
+- engineering review process
+- reproducibility guidance
+- independent validation reports
 
-Repository Structure
+It intentionally does not include the Protected Runtime.
 
-↓
+---
 
-How Reports Are Reviewed
+# Final Principle
 
-↓
+Trust should never be required.
 
-Current Validation Status
-
-↓
-
-Contributing
-
-↓
-
-License
+Engineering evidence should always be reproducible.
